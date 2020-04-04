@@ -3,4 +3,4 @@
 
 [Privacy Policy](https://papyongames.github.io/privacy_policy "Privacy Policy")
 
-[Contact Us](brkkyk@gmail.com)
+[Contact Us](mailto:brkkyk@gmail.com)
